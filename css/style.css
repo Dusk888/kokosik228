@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: url(../Фон\ 6.0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1317.5px;
+}
+
+.title {
+  font-family: Arial, sans-serif;
+  font-size: 4rem;
+}
+.title_text {
+  color: rgb(241, 25, 115);
+
+  background: linear-gradient(45deg, #f502e9, #dae506dc, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.title_text {
+  color: rgb(241, 25, 115);
+
+  background: linear-gradient(45deg, #f502e9, #dae506dc, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
